@@ -1,4 +1,4 @@
-# Boostrap UI Challenge
+# Bootstrap UI Challenge
 
 For this challenge you will need to use [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) classes and components to build the following responsive layout.
 
